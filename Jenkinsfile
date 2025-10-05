@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_DEFAULT_REGION = 'us-east-1'
-        S3_BUCKET = 'your-s3-bucket-name'
+        S3_BUCKET = 'websitestack-websitebucket-apnzrbuy7m9o'
     }
 
     stages {
